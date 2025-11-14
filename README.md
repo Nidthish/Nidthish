@@ -1,6 +1,7 @@
 Hi 👋, I’m Nidthish
 
-I'm a Software Developer passionate about building apps and exploring new technologies. I love coding in Python, Java, and JavaScript.
+👨‍💻 CSE Student passionate about coding, web development, and building projects.  
+💡 Exploring new technologies and contributing to open-source.
 
 **Languages:** Python, Java, C 
 
