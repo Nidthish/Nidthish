@@ -4,15 +4,14 @@ I'm a Software Developer passionate about building apps and exploring new techno
 
 **Languages:** Python, Java, C 
 
-**Web Development Skills: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)**
+**Web Development Skills:**
+
 Frontend Developer | Web Enthusiast | HTML, CSS, JS
 
 - HTML ✅
 - CSS ✅
 - JavaScript ✅
 - Responsive Design 🖥️
-
-
 
 **projects**
 - [droidrop](https://github.com/Nidthish/-Droidrop): It's a desktop app to browse, back up, and manage files on your Android phone, with smart features for handling duplicates and cloud storage.
