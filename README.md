@@ -1,4 +1,4 @@
-Hi 👋, I’m Nidthish
+Hi, I’m Nidthish
 
 👨‍💻 CSE Student passionate about coding, web development, and building projects.  
 💡 Exploring new technologies and contributing to open-source.
