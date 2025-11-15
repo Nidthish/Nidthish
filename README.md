@@ -7,14 +7,8 @@
     margin: auto;
 ">
 
-  <!-- Header Section -->
-  <div style="text-align: center;">
-      <img src="https://avatars.githubusercontent.com/u/000000?v=4" 
-           width="120" 
-           style="border-radius: 50%; margin-bottom: 10px;" 
-           alt="Profile Picture">
 
-      <h1 style="margin-bottom: 5px;">Hi, I’m <span style="color:#0077b5;">Nidthish</span></h1>
+<h1 style="margin-bottom: 5px;">Hi, I’m <span style="color:#0077b5;">Nidthish</span></h1>
       <p style="color:#333; font-size: 15px;">
         👨‍💻 CSE Student passionate about coding, web development, and building projects.<br>
         💡 Exploring new technologies and contributing to open-source.
@@ -47,11 +41,11 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
 
-      <a href="mailto:nidthishak@gmail.com">
+<a href="mailto:nidthishak@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       </a>
 
-      <a href="https://github.com/Nidthish">
+<a href="https://github.com/Nidthish">
         <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
       </a>
   </div>
